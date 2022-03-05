@@ -1,0 +1,5 @@
+.TodoList {
+  min-height: 320px;
+  max-height: 513px;
+  overflow-y: auto; //넘치는 부분을 알아서 잡고, 하단으로 스크롤을 만들어줌
+}
